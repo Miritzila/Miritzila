@@ -3,6 +3,8 @@
 
 - 💬 Ask me about **react, python, Javascript, HTML or CSS**
 
+- 👯 I’m looking to collaborate on All projects I can to improve my skills!
+
 - 📫 How to reach me **miriam.asencio.90@gmail.com**
 
 - ⚡ Fun fact **I know how to properly sing**
