@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **all projects I can to improve my skills!**
 
-- 💬 Ask me about **react, python, Javascript, HTML, CSS**
+- 💬 Ask me about **React, Python, Javascript, HTML, CSS**
 
 - 📫 How to reach me **miriam.asencio.90@gmail.com**
 
