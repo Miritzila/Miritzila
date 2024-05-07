@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Miriam</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 💬 Ask me about **react, python, Javascript, HTML or CSS**
+- 🔭 I’m currently working on [Beatbook](https://github.com/Miritzila/Beatbook)
 
-- 👯 I’m looking to collaborate on All projects I can to improve my skills!
+- 🌱 I’m currently learning **Angular**
+
+- 👯 I’m looking to collaborate on **all projects I can to improve my skills!**
+
+- 💬 Ask me about **react, python, Javascript, HTML, CSS**
 
 - 📫 How to reach me **miriam.asencio.90@gmail.com**
 
