@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Beatbook](https://github.com/Miritzila/Beatbook)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular, Typescript and AWS**
 
 - 👯 I’m looking to collaborate on **all projects I can to improve my skills!**
 
